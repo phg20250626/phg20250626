@@ -63,4 +63,4 @@ Telegram频道传送门：精选热门Telegram频道入口，涵盖资讯、娱�
 
 系统梳理娱乐圈与网红圈的重要爆料事件，完整记录从事件爆发到舆论发酵的全过程。时间线清晰、内容详实，是吃瓜群众回顾热点、了解内幕演变的权威参考工具。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/phg20250626/phg20250626）</span>
